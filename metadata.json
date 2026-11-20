@@ -1,0 +1,6 @@
+{
+  "name": "Ascii Flora",
+  "description": "An interactive 3D blooming ASCII flower bouquet in a sculpted vase with iridescent terminal shading and ambient arpeggiated audio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
